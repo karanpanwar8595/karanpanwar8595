@@ -1,5 +1,14 @@
 # 💫 About Me:
-🚀 Hi, I'm Karan Panwar! I'm working on AI projects like a Sign Language to Text Converter, and Real-Time Emotion Detection App.<br> Passionate about Machine Learning and Web Development, I'm eager to collaborate and learn more about Cybersecurity in AI.<br> Let’s connect and innovate! 🌟
+🚀 Hey, I'm Karan Panwar
+
+Building AI systems, exploring Quantum Computing, and turning ideas into real-world tech.
+Passionate about Machine Learning, Generative AI, Data Science, and scalable applications.
+
+I enjoy creating intelligent solutions, learning cutting-edge technologies, and pushing beyond limits every day.
+
+🌍 Cambridge, UK
+
+Always building. Always learning. 🌟
    
 
 # 💻 Tech Stack:
